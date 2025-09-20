@@ -4,6 +4,7 @@ Welcome to the **Raspby (the self driving car)** project!
 This repository showcases our Computer Vision–based self-driving car prototype, developed using low-cost hardware and real-time image processing techniques.  
 
 ![Raspby](project_images/Raspby.jpeg)
+
 ---
 
 ## 🌍 Introduction  
@@ -35,6 +36,7 @@ Additional components include:
 - 🧵 Jumper wires (component communication)  
 
 ![Hardware_Components](project_images/hardware_components.jpg)
+
 ---
 
 ## 💻 Software Implementation  
@@ -117,6 +119,17 @@ Based on the 2021 paper:
 **Result:**  
 When a stop sign is detected, the system sends a **signal to halt vehicle motion immediately**.  
 
+![Car_tracking](project_images/car_tracking.png)
+
+---
+
+## 🎥 Demonstrations  
+
+- ✅ First approach [demo video](https://drive.google.com/file/d/126eiOTjoHAptE4GLCWDK46c3gz_tiYP8/view?usp=sharing) 
+- ✅ Second approach [demo video](https://drive.google.com/file/d/1PBrDn75TPqP8LFdaFnNGDCb4t0HhhivI/view?usp=sharing)
+- ✅ Stop sign detection [demo video](https://drive.google.com/file/d/1jok9Hye-KthrxMDBxpfsi2PTSviN67pi/view?usp=sharing)
+- ✅ full [demo video](https://drive.google.com/file/d/1YwUV-BCrDXmLjAUlwhwBtw2TmvMYzy4v/view?usp=sharing)
+
 ---
 
 ## 📚 Research References  
@@ -126,12 +139,7 @@ When a stop sign is detected, the system sends a **signal to halt vehicle motion
 
 ---
 
-## 🎥 Demonstrations  
-
-- ✅ Lane detection in real-time  
-- ✅ Robust tracking under artificial lighting  
-- ✅ Stop sign detection and full vehicle stop  
-
-📌 Check out the demo videos included in the repository for a closer look at our results!  
-
----
+## Authors
+- [@Pnlalessio](https://github.com/Pnlalessio)  
+- [@JessicaFrabotta](https://github.com/JessicaFrabotta)
+--- 
