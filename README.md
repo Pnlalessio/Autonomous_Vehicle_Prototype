@@ -3,6 +3,7 @@
 Welcome to the **Raspby (the self driving car)** project!  
 This repository showcases our Computer Vision–based self-driving car prototype, developed using low-cost hardware and real-time image processing techniques.  
 
+![Raspby](project_images/Raspby.jpeg)
 ---
 
 ## 🌍 Introduction  
@@ -33,6 +34,7 @@ Additional components include:
 - 🌬️ Cooling fan (to prevent overheating)  
 - 🧵 Jumper wires (component communication)  
 
+![Hardware_Components](project_images/hardware_components.jpg)
 ---
 
 ## 💻 Software Implementation  
