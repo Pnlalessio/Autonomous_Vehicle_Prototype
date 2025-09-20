@@ -3,7 +3,9 @@
 Welcome to the **Raspby (the self driving car)** project!  
 This repository showcases our Computer Vision–based self-driving car prototype, developed using low-cost hardware and real-time image processing techniques.  
 
-![Raspby](project_images/Raspby.jpeg)
+<div align="center">
+  <img src="project_images/Raspby.jpeg" width="500" alt="Raspby">
+</div>
 
 ---
 
@@ -35,7 +37,9 @@ Additional components include:
 - 🌬️ Cooling fan (to prevent overheating)  
 - 🧵 Jumper wires (component communication)  
 
-![Hardware_Components](project_images/hardware_components.jpg)
+<div align="center">
+  <img src="project_images/hardware_components.jpg" width="700">
+</div>
 
 ---
 
@@ -65,7 +69,9 @@ This approach was inspired by the 2022 paper:
   - Move left ↔ Move right ↔ Go forward  
   - Adjust intensity of correction based on score
 
- ![First Approach](project_images/first_approach.jpg)
+<div align="center">
+  <img src="project_images/first_approach.png" alt="Stop_Detection" width="600"/>
+</div>
 
 **Limitations:**  
 - Requires **optimal lighting conditions** (struggles with artificial light)  
@@ -87,7 +93,9 @@ To overcome the limitations of the first method, we introduced a **Bird’s Eye 
    - Peaks in histogram = probable lane line positions  
 5. ➡️ Lane center estimation, offset calculation, and movement control
 
-![Second Approach](project_images/second_approach.jpg)
+<div align="center">
+  <img src="project_images/second_approach.png" alt="Stop_Detection" width="600"/>
+</div>
 
 **Advantages over first approach:**  
 - Works well under **artificial lighting**  
@@ -114,7 +122,9 @@ Based on the 2021 paper:
 6. 🛑 **Shape Recognition**:  
    - If contour has 8 sides → **classified as octagon** → STOP sign detected
 
-![Stop_Detection](project_images/Stop_Detection.jpg)
+<div align="center">
+  <img src="project_images/Stop_Detection.png" alt="Stop_Detection" width="600"/>
+</div>
 
 **Result:**  
 When a stop sign is detected, the system sends a **signal to halt vehicle motion immediately**.  
