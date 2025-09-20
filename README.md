@@ -37,7 +37,11 @@ Additional components include:
 - 🌬️ Cooling fan (to prevent overheating)  
 - 🧵 Jumper wires (component communication)  
 
-![Hardware_Components](project_images/hardware_components.jpg)
+<div align="center">
+  <img src="project_images/Raspby.jpeg" width="400" alt="Raspby">
+  <br>
+  <img src="project_images/hardware_components.jpg" width="400" alt="Hardware Components">
+</div>
 
 ---
 
