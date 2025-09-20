@@ -69,7 +69,7 @@ This approach was inspired by the 2022 paper:
   - Move left ↔ Move right ↔ Go forward  
   - Adjust intensity of correction based on score
 
- ![First Approach](project_images/first_approach.jpg)
+ ![First Approach](project_images/first_approach.png)
 
 **Limitations:**  
 - Requires **optimal lighting conditions** (struggles with artificial light)  
