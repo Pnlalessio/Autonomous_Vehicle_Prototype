@@ -118,7 +118,7 @@ Based on the 2021 paper:
 6. 🛑 **Shape Recognition**:  
    - If contour has 8 sides → **classified as octagon** → STOP sign detected
 
-![Stop_Detection](project_images/Stop_Detection.png)
+<img src="project_images/Stop_Detection.png" width="300" alt="Stop Detection">
 
 **Result:**  
 When a stop sign is detected, the system sends a **signal to halt vehicle motion immediately**.  
