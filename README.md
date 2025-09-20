@@ -3,7 +3,9 @@
 Welcome to the **Raspby (the self driving car)** project!  
 This repository showcases our Computer Vision–based self-driving car prototype, developed using low-cost hardware and real-time image processing techniques.  
 
-![Raspby](project_images/Raspby.jpeg)
+<div align="center">
+  <img src="project_images/Raspby.jpeg" width="400" alt="Raspby">
+</div>
 
 ---
 
