@@ -1,6 +1,6 @@
-# 🚗 Autonomous Vehicle Prototype  
+# 🚗 Raspby (the self driving car)
 
-Welcome to the **Autonomous Vehicle Prototype** project!  
+Welcome to the **Raspby (the self driving car)** project!  
 This repository showcases our Computer Vision–based self-driving car prototype, developed using low-cost hardware and real-time image processing techniques.  
 
 ---
