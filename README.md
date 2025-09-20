@@ -38,9 +38,7 @@ Additional components include:
 - 🧵 Jumper wires (component communication)  
 
 <div align="center">
-  <img src="project_images/Raspby.jpeg" width="400" alt="Raspby">
-  <br>
-  <img src="project_images/hardware_components.jpg" width="400" alt="Hardware Components">
+  <img src="project_images/hardware_components.jpg" width="400">
 </div>
 
 ---
