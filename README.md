@@ -93,7 +93,9 @@ To overcome the limitations of the first method, we introduced a **Bird’s Eye 
    - Peaks in histogram = probable lane line positions  
 5. ➡️ Lane center estimation, offset calculation, and movement control
 
-![Second Approach](project_images/second_approach.jpg)
+<div align="center">
+  <img src="project_images/second_approach.jpg" alt="Stop_Detection" width="600"/>
+</div>
 
 **Advantages over first approach:**  
 - Works well under **artificial lighting**  
