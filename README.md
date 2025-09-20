@@ -119,7 +119,7 @@ Based on the 2021 paper:
    - If contour has 8 sides → **classified as octagon** → STOP sign detected
 
 <div align="center">
-  <img src="project_images/Stop_Detection.png" alt="Stop_Detection" width="500"/>
+  <img src="project_images/Stop_Detection.png" alt="Stop_Detection" width="600"/>
 </div>
 
 **Result:**  
