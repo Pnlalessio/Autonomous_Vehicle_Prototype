@@ -94,7 +94,7 @@ To overcome the limitations of the first method, we introduced a **Bird’s Eye 
 5. ➡️ Lane center estimation, offset calculation, and movement control
 
 <div align="center">
-  <img src="project_images/second_approach.jpg" alt="Stop_Detection" width="600"/>
+  <img src="project_images/second_approach.png" alt="Stop_Detection" width="600"/>
 </div>
 
 **Advantages over first approach:**  
